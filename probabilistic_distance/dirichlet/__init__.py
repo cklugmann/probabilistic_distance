@@ -1,0 +1,2 @@
+from probabilistic_distance.dirichlet.chernoff_distance import ChernoffDistance
+from probabilistic_distance.dirichlet.bhattacharyya_distance import BhattacharyyaDistance
